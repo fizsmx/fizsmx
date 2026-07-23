@@ -135,5 +135,5 @@
 ### System Access Granted...
 
 <div align="center">
-  <img src="https://i.gifer.com/embedded/download/5eGz.gif" width="100%" alt="Hacker Terminal Animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.8);" />
+  <img src="terminal.gif" width="100%" alt="Hacker Terminal Animation" />
 </div>
