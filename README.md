@@ -150,6 +150,26 @@
 
 ---
 
+#### Architecture, Design & Extra Tools
+<p>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🏢 **[Odoo SaaS MVP](https://github.com/fizsmx/odoo-saas-mvp)** - A complete Minimum Viable Product for a SaaS platform built on top of Odoo, featuring multi-tenancy and subscription management. *(Odoo, Python, PostgreSQL)*
+- 🗺️ **[Catastro 01](https://github.com/fizsmx/catastro_01)** - Land registry and real estate management system with geographic data processing capabilities. *(Python, Web Frameworks, Linux)*
+- 🚜 **[Granja](https://github.com/fizsmx/Granja)** - Farm management and agricultural tracking software tailored for optimizing daily production. *(Full Stack)*
+
+---
+
 ### System Access Granted...
 
 <div align="center">
