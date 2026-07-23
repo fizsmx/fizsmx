@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em>Passionate about software development, system architecture, and mastering Linux and Network infrastructures.</em>
+  <em>Fliper</em>
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
   <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fizsmx&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+
 
 ---
 
@@ -159,14 +157,6 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- 🏢 **[Odoo SaaS MVP](https://github.com/fizsmx/odoo-saas-mvp)** - A complete Minimum Viable Product for a SaaS platform built on top of Odoo, featuring multi-tenancy and subscription management. *(Odoo, Python, PostgreSQL)*
-- 🗺️ **[Catastro 01](https://github.com/fizsmx/catastro_01)** - Land registry and real estate management system with geographic data processing capabilities. *(Python, Web Frameworks, Linux)*
-- 🚜 **[Granja](https://github.com/fizsmx/Granja)** - Farm management and agricultural tracking software tailored for optimizing daily production. *(Full Stack)*
 
 ---
 
