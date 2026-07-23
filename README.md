@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=¡Hola,+soy+Fisbert!+👋;Full+Stack+Software+Engineer;Linux+&+IT+Support+Specialist;Building+Scalable+Solutions&color=38B2AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Fisbert!;Full+Stack+Software+Engineer;Linux+&+IT+Support+Specialist;Building+Scalable+Solutions&color=38B2AC" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Apasionado por el desarrollo de software, la arquitectura de sistemas y el dominio de infraestructuras Linux y Redes.</em>
+  <em>Passionate about software development, system architecture, and mastering Linux and Network infrastructures.</em>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas (Tech Stack)
+### Tech Stack
 
-#### 💻 Frontend & UI
+#### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-#### 📱 Mobile & Desktop
+#### Mobile & Desktop
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-#### 🖥️ Sistemas Operativos, Terminal & Soporte IT
+#### Operating Systems, Terminals & IT Support
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -96,10 +96,10 @@
   <img src="https://img.shields.io/badge/AnyDesk-EF4123?style=for-the-badge&logo=anydesk&logoColor=white" />
   <img src="https://img.shields.io/badge/TeamViewer-0E4C95?style=for-the-badge&logo=teamviewer&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soporte_IT-333333?style=for-the-badge&logo=iterm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT_Support-333333?style=for-the-badge&logo=iterm2&logoColor=white" />
 </p>
 
-#### 🗄️ Bases de Datos
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -113,7 +113,7 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, DevOps & Tools
+#### Cloud, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -132,7 +132,7 @@
 
 ---
 
-### 💻 System Access Granted...
+### System Access Granted...
 
 <div align="center">
   <img src="https://i.gifer.com/embedded/download/5eGz.gif" width="100%" alt="Hacker Terminal Animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.8);" />
