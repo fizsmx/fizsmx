@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/tu-usuario"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/dean_smx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
   <a href="https://tu-sitio.com"><img src="https://img.shields.io/badge/-Sitio_Web-333333?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
