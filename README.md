@@ -111,14 +111,8 @@
 
 ---
 
-### 📊 Estadísticas de Actividad
+### 🌌 Code Mode
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizsmx&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizsmx&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
 </div>
