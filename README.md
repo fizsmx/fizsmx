@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=¡Hola,+soy+Fisbert!+👋;Full+Stack+Software+Engineer;Odoo+&+Backend+Specialist;Building+Scalable+Solutions&color=38B2AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=¡Hola,+soy+Fisbert!+👋;Full+Stack+Software+Engineer;Linux+&+IT+Support+Specialist;Building+Scalable+Solutions&color=38B2AC" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Apasionado por el desarrollo de software, la creación de soluciones eficientes y la arquitectura de sistemas complejos.</em>
+  <em>Apasionado por el desarrollo de software, la arquitectura de sistemas y el dominio de infraestructuras Linux y Redes.</em>
 </p>
 
 <p align="center">
@@ -76,6 +76,29 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
+#### 🖥️ Sistemas Operativos, Terminal & Soporte IT
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/AnyDesk-EF4123?style=for-the-badge&logo=anydesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeamViewer-0E4C95?style=for-the-badge&logo=teamviewer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soporte_IT-333333?style=for-the-badge&logo=iterm2&logoColor=white" />
+</p>
+
 #### 🗄️ Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -94,8 +117,6 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-330F53?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -111,8 +132,8 @@
 
 ---
 
-### 🌌 Code Mode
+### 💻 System Access Granted...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
+  <img src="https://i.gifer.com/embedded/download/5eGz.gif" width="100%" alt="Hacker Terminal Animation" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.8);" />
 </div>
