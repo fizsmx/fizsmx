@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/dean_smx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tu-sitio.com"><img src="https://img.shields.io/badge/-Sitio_Web-333333?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <div align="center">
@@ -114,15 +113,8 @@
 
 ### 📊 Estadísticas de Actividad
 
-*(Nota: Si los cuadros no cargan al instante, es porque el servidor a veces tarda unos segundos. Refresca la página).*
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizsmx&show_icons=true&theme=radical&hide_border=true&locale=es" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizsmx&theme=radical&hide_border=true&locale=es" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizsmx&layout=compact&theme=radical&hide_border=true&locale=es" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizsmx&theme=radical&hide_border=true&locale=es" alt="GitHub Streak" />
 </div>
 
 <br>
