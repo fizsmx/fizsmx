@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em>Fliper</em>
+  <em>Flipper</em>
 </p>
 
 <p align="center">
