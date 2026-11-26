@@ -74,47 +74,100 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
 
 ---
 
-### Tech Stack & Toolbox
+### Tech Stack & Full Technology Encyclopedia
 
 <div align="center">
-  <p><strong>Programming Languages &amp; Scripting</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,java,cs,cpp,c,go,rust,ruby,kotlin,swift,dart,bash,powershell,lua,r,solidity,html,css,sass,md,latex&perline=12" alt="Programming Languages and Scripting" />
+  <p><strong>Programming Languages — Core, Systems, Web &amp; Functional</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,java,cs,cpp,c,go,rust,ruby,kotlin,swift,dart,scala,elixir,clojure,haskell,ocaml,zig,nim,crystal,v,vala,lua,perl,r,julia&perline=14" alt="Core, Systems and Functional Programming Languages" />
 
-  <p><strong>Frontend, UI, Mobile &amp; Creative Design</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,bootstrap,mui,redux,jquery,electron,flutter,androidstudio,figma,ps,ai,pr,ae,blender,threejs&perline=12" alt="Frontend, Mobile and Design" />
+  <p><strong>Programming Languages — Scientific, Hardware HDL, Scripting &amp; Markup</strong></p>
+  <img src="https://skillicons.dev/icons?i=matlab,octave,fortran,forth,haxe,coffeescript,solidity,wasm,verilog,bash,powershell,html,css,sass,less,md,latex,svg,regex,gherkin,pkl,aiscript,processing,p5js,nix,qt,gtk,cmake&perline=14" alt="Scientific, HDL, Scripting and Markup Languages" />
 
-  <p><strong>Backend, Frameworks, APIs &amp; Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,laravel,spring,dotnet,rails,graphql,wordpress,postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma,elasticsearch,kafka,rabbitmq,postman&perline=12" alt="Backend, APIs and Databases" />
+  <p><strong>Additional Programming Languages — Classic, Modern, Query, Smart Contracts &amp; Low-Level</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Assembly_(x86%2FARM)-161B22?style=flat-square&logo=assemblyscript&logoColor=38B2AC" alt="Assembly" />
+    <img src="https://img.shields.io/badge/SQL_%2F_PLpgSQL_%2F_T--SQL-161B22?style=flat-square&logo=postgresql&logoColor=38B2AC" alt="SQL" />
+    <img src="https://img.shields.io/badge/F%23-161B22?style=flat-square&logo=fsharp&logoColor=38B2AC" alt="F#" />
+    <img src="https://img.shields.io/badge/Objective--C-161B22?style=flat-square&logo=apple&logoColor=38B2AC" alt="Objective-C" />
+    <img src="https://img.shields.io/badge/Visual_Basic_%2F_VBA-161B22?style=flat-square&logo=dotnet&logoColor=38B2AC" alt="Visual Basic" />
+    <img src="https://img.shields.io/badge/Erlang-161B22?style=flat-square&logo=erlang&logoColor=38B2AC" alt="Erlang" />
+    <img src="https://img.shields.io/badge/Groovy-161B22?style=flat-square&logo=apachegroovy&logoColor=38B2AC" alt="Groovy" />
+    <img src="https://img.shields.io/badge/Pascal_%2F_Delphi-161B22?style=flat-square&logo=delphi&logoColor=38B2AC" alt="Pascal Delphi" />
+    <img src="https://img.shields.io/badge/COBOL-161B22?style=flat-square" alt="COBOL" />
+    <img src="https://img.shields.io/badge/Ada-161B22?style=flat-square" alt="Ada" />
+    <img src="https://img.shields.io/badge/Common_Lisp-161B22?style=flat-square" alt="Common Lisp" />
+    <img src="https://img.shields.io/badge/Scheme-161B22?style=flat-square" alt="Scheme" />
+    <img src="https://img.shields.io/badge/Racket-161B22?style=flat-square&logo=racket&logoColor=38B2AC" alt="Racket" />
+    <img src="https://img.shields.io/badge/Prolog-161B22?style=flat-square" alt="Prolog" />
+    <img src="https://img.shields.io/badge/Smalltalk-161B22?style=flat-square" alt="Smalltalk" />
+    <img src="https://img.shields.io/badge/D_Lang-161B22?style=flat-square" alt="D Language" />
+    <img src="https://img.shields.io/badge/Elm-161B22?style=flat-square&logo=elm&logoColor=38B2AC" alt="Elm" />
+    <img src="https://img.shields.io/badge/PureScript-161B22?style=flat-square&logo=purescript&logoColor=38B2AC" alt="PureScript" />
+    <img src="https://img.shields.io/badge/ReScript_%2F_ReasonML-161B22?style=flat-square&logo=rescript&logoColor=38B2AC" alt="ReScript" />
+    <img src="https://img.shields.io/badge/Gleam-161B22?style=flat-square&logo=gleam&logoColor=38B2AC" alt="Gleam" />
+    <img src="https://img.shields.io/badge/Mojo-161B22?style=flat-square" alt="Mojo" />
+    <img src="https://img.shields.io/badge/Carbon-161B22?style=flat-square" alt="Carbon" />
+    <img src="https://img.shields.io/badge/Move-161B22?style=flat-square" alt="Move" />
+    <img src="https://img.shields.io/badge/Cairo-161B22?style=flat-square" alt="Cairo" />
+    <img src="https://img.shields.io/badge/VHDL_%2F_SystemVerilog-161B22?style=flat-square" alt="VHDL SystemVerilog" />
+    <img src="https://img.shields.io/badge/CUDA_C%2B%2B_%2F_GLSL_%2F_HLSL-161B22?style=flat-square&logo=nvidia&logoColor=38B2AC" alt="CUDA GLSL HLSL" />
+    <img src="https://img.shields.io/badge/Wolfram-161B22?style=flat-square&logo=wolfram&logoColor=38B2AC" alt="Wolfram" />
+    <img src="https://img.shields.io/badge/Scratch-161B22?style=flat-square&logo=scratch&logoColor=38B2AC" alt="Scratch" />
+    <img src="https://img.shields.io/badge/Tcl_%2F_AWK-161B22?style=flat-square" alt="Tcl AWK" />
+    <img src="https://img.shields.io/badge/ABAP-161B22?style=flat-square&logo=sap&logoColor=38B2AC" alt="ABAP" />
+    <img src="https://img.shields.io/badge/Apex-161B22?style=flat-square&logo=salesforce&logoColor=38B2AC" alt="Apex" />
+    <img src="https://img.shields.io/badge/Hack-161B22?style=flat-square" alt="Hack" />
+    <img src="https://img.shields.io/badge/Raku-161B22?style=flat-square" alt="Raku" />
+    <img src="https://img.shields.io/badge/Ballerina-161B22?style=flat-square" alt="Ballerina" />
+  </p>
 
-  <p><strong>Cloud, DevOps, Linux, OS &amp; Developer Environments</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,vercel,netlify,heroku,linux,ubuntu,debian,arch,kali,fedora,redhat,windows,apple,vim,neovim,vscode&perline=12" alt="Cloud, DevOps, Linux and OS" />
+  <p><strong>Frontend, UI Frameworks, Styling, Visualization &amp; Build Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,solidjs,astro,remix,gatsby,ember,alpinejs,htmx,lit,yew,jquery,pug,tailwind,windicss,bootstrap,mui,vuetify,styledcomponents,emotion,redux,pinia,reactivex,d3,threejs,vite,webpack,rollupjs,babel,gulp,webflow,wordpress&perline=12" alt="Frontend Frameworks and Build Tools" />
 
-  <p><strong>AI / Machine Learning, Embedded Hardware, CI/CD &amp; Observability</strong></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter,arduino,raspberrypi,ros,cmake,git,github,gitlab,bitbucket,githubactions,jenkins,grafana,prometheus,sentry,vitest,npm,yarn,pnpm,bun&perline=12" alt="AI, ML, Hardware and CI/CD" />
+  <p><strong>Backend, Runtimes, APIs, ORMs &amp; BaaS Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,deno,bun,express,nestjs,elysia,adonis,django,flask,fastapi,laravel,symfony,spring,ktor,dotnet,rails,actix,rocket,apollo,graphql,hibernate,prisma,sequelize,appwrite,firebase,supabase,discordjs,discordbots&perline=14" alt="Backend, APIs and ORMs" />
 
-  <p><strong>LLMs &amp; AI Agents · Enterprise ERP · Cybersecurity, Networking &amp; Hardware</strong></p>
+  <p><strong>Databases, Messaging, AI / ML, Embedded Hardware &amp; Testing</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,cassandra,dynamodb,planetscale,elasticsearch,kafka,rabbitmq,ipfs,pytorch,tensorflow,sklearn,opencv,anaconda,jupyter,arduino,raspberrypi,ros,cypress,jest,vitest,selenium,postman,gradle,maven&perline=14" alt="Databases, AI/ML, Embedded Hardware and Testing" />
+
+  <p><strong>Cloud Platforms, Containers, DevOps, CI/CD &amp; Observability</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,workers,vercel,netlify,heroku,openshift,openstack,git,github,gitlab,bitbucket,githubactions,jenkins,grafana,prometheus,sentry&perline=12" alt="Cloud, DevOps and Observability" />
+
+  <p><strong>Operating Systems, Terminals, Editors &amp; IDEs</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,mint,fedora,redhat,bsd,plan9,windows,apple,vim,neovim,emacs,vscode,vscodium,visualstudio,idea,pycharm,webstorm,phpstorm,clion,rider,androidstudio,eclipse,sublime,atom&perline=14" alt="Operating Systems and IDEs" />
+
+  <p><strong>Mobile, Desktop, Game Engines, 3D CAD, Creative Suite &amp; Package Managers</strong></p>
+  <img src="https://skillicons.dev/icons?i=flutter,electron,tauri,azul,unity,unreal,godot,bevy,gamemakerstudio,robloxstudio,haxeflixel,blender,autocad,sketchup,figma,xd,ps,ai,pr,ae,au,ableton,npm,yarn,pnpm,replit,notion,obsidian&perline=14" alt="Mobile, Desktop, Game Engines and Creative Suite" />
+
+  <p><strong>AI LLMs &amp; Agents · Enterprise ERP · Cybersecurity, Networking &amp; Hardware</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=38B2AC" alt="Google Gemini" />
     <img src="https://img.shields.io/badge/Claude_%2F_Anthropic-161B22?style=flat-square&logo=anthropic&logoColor=38B2AC" alt="Claude Anthropic" />
+    <img src="https://img.shields.io/badge/OpenAI_%2F_GPT-161B22?style=flat-square" alt="OpenAI GPT" />
     <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=38B2AC" alt="Ollama" />
     <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=38B2AC" alt="LangChain" />
+    <img src="https://img.shields.io/badge/LlamaIndex-161B22?style=flat-square" alt="LlamaIndex" />
     <img src="https://img.shields.io/badge/llama.cpp_%2F_GGUF-161B22?style=flat-square&logo=meta&logoColor=38B2AC" alt="llama.cpp" />
+    <img src="https://img.shields.io/badge/vLLM-161B22?style=flat-square" alt="vLLM" />
     <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=38B2AC" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/Perplexity-161B22?style=flat-square&logo=perplexity&logoColor=38B2AC" alt="Perplexity" />
     <img src="https://img.shields.io/badge/n8n_Automation-161B22?style=flat-square&logo=n8n&logoColor=38B2AC" alt="n8n Automation" />
+    <img src="https://img.shields.io/badge/ONNX-161B22?style=flat-square&logo=onnx&logoColor=38B2AC" alt="ONNX" />
     <img src="https://img.shields.io/badge/NVIDIA_CUDA-161B22?style=flat-square&logo=nvidia&logoColor=38B2AC" alt="NVIDIA CUDA" />
     <img src="https://img.shields.io/badge/Vulkan_GPU-161B22?style=flat-square&logo=vulkan&logoColor=38B2AC" alt="Vulkan GPU" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Odoo_ERP-161B22?style=flat-square&logo=odoo&logoColor=38B2AC" alt="Odoo ERP" />
+    <img src="https://img.shields.io/badge/SAP-161B22?style=flat-square&logo=sap&logoColor=38B2AC" alt="SAP" />
+    <img src="https://img.shields.io/badge/Salesforce-161B22?style=flat-square&logo=salesforce&logoColor=38B2AC" alt="Salesforce" />
     <img src="https://img.shields.io/badge/Traefik-161B22?style=flat-square&logo=traefikproxy&logoColor=38B2AC" alt="Traefik" />
     <img src="https://img.shields.io/badge/Proxmox-161B22?style=flat-square&logo=proxmox&logoColor=38B2AC" alt="Proxmox" />
     <img src="https://img.shields.io/badge/Portainer-161B22?style=flat-square&logo=portainer&logoColor=38B2AC" alt="Portainer" />
     <img src="https://img.shields.io/badge/Swagger-161B22?style=flat-square&logo=swagger&logoColor=38B2AC" alt="Swagger" />
     <img src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=38B2AC" alt="Jira" />
-    <img src="https://img.shields.io/badge/Notion-161B22?style=flat-square&logo=notion&logoColor=38B2AC" alt="Notion" />
     <img src="https://img.shields.io/badge/Stripe_%2F_Payments-161B22?style=flat-square&logo=stripe&logoColor=38B2AC" alt="Stripe Payments" />
     <img src="https://img.shields.io/badge/ESP32_%2F_IoT-161B22?style=flat-square&logo=espressif&logoColor=38B2AC" alt="ESP32 IoT" />
+    <img src="https://img.shields.io/badge/STM32_%2F_Embedded-161B22?style=flat-square&logo=stmicroelectronics&logoColor=38B2AC" alt="STM32" />
     <img src="https://img.shields.io/badge/Intel_Hardware-161B22?style=flat-square&logo=intel&logoColor=38B2AC" alt="Intel Hardware" />
     <img src="https://img.shields.io/badge/AMD_Hardware-161B22?style=flat-square&logo=amd&logoColor=38B2AC" alt="AMD Hardware" />
   </p>
@@ -122,6 +175,7 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
     <img src="https://img.shields.io/badge/Wireshark-161B22?style=flat-square&logo=wireshark&logoColor=38B2AC" alt="Wireshark" />
     <img src="https://img.shields.io/badge/Burp_Suite-161B22?style=flat-square&logo=burpsuite&logoColor=38B2AC" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Metasploit_%2F_Pentest-161B22?style=flat-square&logo=metasploit&logoColor=38B2AC" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Nmap-161B22?style=flat-square" alt="Nmap" />
     <img src="https://img.shields.io/badge/Kali_Cybersecurity-161B22?style=flat-square&logo=kalilinux&logoColor=38B2AC" alt="Kali Cybersecurity" />
     <img src="https://img.shields.io/badge/Cisco_Networking-161B22?style=flat-square&logo=cisco&logoColor=38B2AC" alt="Cisco Networking" />
     <img src="https://img.shields.io/badge/MikroTik-161B22?style=flat-square&logo=mikrotik&logoColor=38B2AC" alt="MikroTik" />
