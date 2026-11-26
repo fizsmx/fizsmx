@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f4c5c,100:38b2ac&height=190&section=header&text=Fisbert%20Chavez&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Enterprise%20Systems%20%7C%20Linux%20%26%20Hardware&descAlignY=60&descSize=16" width="100%" alt="Fisbert Chavez Header" />
+  <img src="./assets/header.svg" width="100%" alt="Fisbert Chavez Header" />
 
   <a href="https://github.com/fizsmx">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=Full-Stack+%26+AI+Software+Engineer;Enterprise+Systems%2C+Odoo+ERP+%26+Payment+Architect;Linux%2C+DevOps%2C+Networking+%26+Hardware+Specialist;Building+End-to-End+Tech+%E2%80%94+From+Hardware+to+Cloud" alt="Typing SVG" />
