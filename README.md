@@ -107,6 +107,12 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
 ### GitHub Telemetry & Activity
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fizsmx/fizsmx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fizsmx/fizsmx/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fizsmx/fizsmx/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  </picture>
+  <br /><br />
   <img height="165" src="https://streak-stats.demolab.com?user=fizsmx&background=0D1117&border=30363D&stroke=30363D&ring=38B2AC&fire=38B2AC&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38B2AC&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak" />
   &nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizsmx&layout=compact&langs_count=6&bg_color=0d1117&title_color=38b2ac&text_color=e6edf3&border_color=30363d&border_radius=10" alt="Top Languages" />
