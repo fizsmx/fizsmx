@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Fisbert Chavez - Full-Stack, AI, Enterprise Systems, Linux and Hardware">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0f2933"/>
+      <stop offset="100%" stop-color="#134e5e"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f4c5c" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#38b2ac" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#38b2ac" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#e6fffa"/>
+      <stop offset="100%" stop-color="#81e6d9"/>
+    </linearGradient>
+    <pattern id="techGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38b2ac" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="roundedClip">
+      <rect x="0.5" y="0.5" width="899" height="199" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 46px;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      fill: url(#titleGrad);
+    }
+    .subtitle {
+      font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+      font-size: 14.5px;
+      font-weight: 500;
+      letter-spacing: 0.8px;
+      fill: #c9d1d9;
+    }
+    .tag {
+      font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.4px;
+      fill: #38b2ac;
+    }
+    .pulse {
+      animation: pulseAnim 2.2s ease-in-out infinite;
+    }
+    @keyframes pulseAnim {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+  </style>
+
+  <g clip-path="url(#roundedClip)">
+    <!-- Background + subtle tech grid -->
+    <rect x="0" y="0" width="900" height="200" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="900" height="200" fill="url(#techGrid)"/>
+
+    <!-- Ambient teal glow -->
+    <circle cx="760" cy="40" r="150" fill="#38b2ac" fill-opacity="0.12"/>
+    <circle cx="140" cy="180" r="130" fill="#0ea5e9" fill-opacity="0.08"/>
+
+    <!-- Animated waves -->
+    <path fill="url(#waveGrad1)">
+      <animate attributeName="d" dur="14s" repeatCount="indefinite"
+        values="M0,152 Q225,118 450,148 T900,140 L900,200 L0,200 Z;
+                M0,142 Q225,172 450,136 T900,155 L900,200 L0,200 Z;
+                M0,152 Q225,118 450,148 T900,140 L900,200 L0,200 Z"/>
+    </path>
+    <path fill="url(#waveGrad2)">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        values="M0,168 Q240,140 480,164 T900,154 L900,200 L0,200 Z;
+                M0,156 Q240,182 480,150 T900,170 L900,200 L0,200 Z;
+                M0,168 Q240,140 480,164 T900,154 L900,200 L0,200 Z"/>
+    </path>
+
+    <!-- Status pill -->
+    <rect x="332" y="24" width="236" height="24" rx="12" fill="#0d1117" fill-opacity="0.72" stroke="#38b2ac" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="348" cy="36" r="4" fill="#38b2ac" class="pulse"/>
+    <text x="456" y="40" text-anchor="middle" class="tag">SYSTEM ONLINE // @FIZSMX</text>
+
+    <!-- Main Name -->
+    <text x="450" y="102" text-anchor="middle" class="title">Fisbert Chavez</text>
+
+    <!-- Accent divider -->
+    <rect x="380" y="116" width="140" height="2" rx="1" fill="#38b2ac" fill-opacity="0.85"/>
+
+    <!-- Subtitle -->
+    <text x="450" y="143" text-anchor="middle" class="subtitle">Full-Stack  ·  AI &amp; Local LLMs  ·  Enterprise Systems  ·  Linux &amp; Hardware</text>
+  </g>
+
+  <!-- Crisp border -->
+  <rect x="0.5" y="0.5" width="899" height="199" rx="14" ry="14" fill="none" stroke="#30363d" stroke-width="1.2"/>
+</svg>
