@@ -6,6 +6,7 @@
   </a>
 
   <p>
+    <a href="https://fizsmx.github.io"><img src="https://img.shields.io/badge/Portfolio-fizsmx.github.io-38B2AC?style=flat-square&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
     <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/Email-fisbert.smx%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=38B2AC" alt="Email" /></a>
     <a href="https://instagram.com/dean_smx"><img src="https://img.shields.io/badge/Instagram-%40dean__smx-161B22?style=flat-square&logo=instagram&logoColor=38B2AC" alt="Instagram" /></a>
     <!-- Uncomment and update once your LinkedIn URL is ready:
