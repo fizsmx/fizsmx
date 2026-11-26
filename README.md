@@ -77,13 +77,22 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
 ### Tech Stack & Toolbox
 
 <div align="center">
-  <p><strong>Languages, Frameworks &amp; Core Engineering</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,bash,powershell,html,css,tailwind,react,nextjs,vite,nodejs,fastapi,wordpress&perline=8" alt="Core Languages and Frameworks" />
+  <p><strong>Programming Languages &amp; Scripting</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,java,cs,cpp,c,go,rust,ruby,kotlin,swift,dart,bash,powershell,lua,r,solidity,html,css,sass,md,latex&perline=12" alt="Programming Languages and Scripting" />
 
-  <p><strong>Databases, DevOps, Linux &amp; Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma,docker,linux,ubuntu,debian,arch,kali,nginx,git,github,vercel,figma&perline=8" alt="Databases, DevOps and Linux" />
+  <p><strong>Frontend, UI, Mobile &amp; Creative Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,bootstrap,mui,redux,jquery,electron,flutter,androidstudio,figma,ps,ai,pr,ae,blender,threejs&perline=12" alt="Frontend, Mobile and Design" />
 
-  <p><strong>AI Ecosystem, Enterprise, Networking &amp; Hardware</strong></p>
+  <p><strong>Backend, Frameworks, APIs &amp; Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,laravel,spring,dotnet,rails,graphql,wordpress,postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma,elasticsearch,kafka,rabbitmq,postman&perline=12" alt="Backend, APIs and Databases" />
+
+  <p><strong>Cloud, DevOps, Linux, OS &amp; Developer Environments</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,vercel,netlify,heroku,linux,ubuntu,debian,arch,kali,fedora,redhat,windows,apple,vim,neovim,vscode&perline=12" alt="Cloud, DevOps, Linux and OS" />
+
+  <p><strong>AI / Machine Learning, Embedded Hardware, CI/CD &amp; Observability</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter,arduino,raspberrypi,ros,cmake,git,github,gitlab,bitbucket,githubactions,jenkins,grafana,prometheus,sentry,vitest,npm,yarn,pnpm,bun&perline=12" alt="AI, ML, Hardware and CI/CD" />
+
+  <p><strong>LLMs &amp; AI Agents · Enterprise ERP · Cybersecurity, Networking &amp; Hardware</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=38B2AC" alt="Google Gemini" />
     <img src="https://img.shields.io/badge/Claude_%2F_Anthropic-161B22?style=flat-square&logo=anthropic&logoColor=38B2AC" alt="Claude Anthropic" />
@@ -91,14 +100,38 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
     <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=38B2AC" alt="LangChain" />
     <img src="https://img.shields.io/badge/llama.cpp_%2F_GGUF-161B22?style=flat-square&logo=meta&logoColor=38B2AC" alt="llama.cpp" />
     <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=38B2AC" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Perplexity-161B22?style=flat-square&logo=perplexity&logoColor=38B2AC" alt="Perplexity" />
+    <img src="https://img.shields.io/badge/n8n_Automation-161B22?style=flat-square&logo=n8n&logoColor=38B2AC" alt="n8n Automation" />
+    <img src="https://img.shields.io/badge/NVIDIA_CUDA-161B22?style=flat-square&logo=nvidia&logoColor=38B2AC" alt="NVIDIA CUDA" />
+    <img src="https://img.shields.io/badge/Vulkan_GPU-161B22?style=flat-square&logo=vulkan&logoColor=38B2AC" alt="Vulkan GPU" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Odoo_ERP-161B22?style=flat-square&logo=odoo&logoColor=38B2AC" alt="Odoo ERP" />
     <img src="https://img.shields.io/badge/Traefik-161B22?style=flat-square&logo=traefikproxy&logoColor=38B2AC" alt="Traefik" />
+    <img src="https://img.shields.io/badge/Proxmox-161B22?style=flat-square&logo=proxmox&logoColor=38B2AC" alt="Proxmox" />
+    <img src="https://img.shields.io/badge/Portainer-161B22?style=flat-square&logo=portainer&logoColor=38B2AC" alt="Portainer" />
+    <img src="https://img.shields.io/badge/Swagger-161B22?style=flat-square&logo=swagger&logoColor=38B2AC" alt="Swagger" />
+    <img src="https://img.shields.io/badge/Jira-161B22?style=flat-square&logo=jira&logoColor=38B2AC" alt="Jira" />
+    <img src="https://img.shields.io/badge/Notion-161B22?style=flat-square&logo=notion&logoColor=38B2AC" alt="Notion" />
+    <img src="https://img.shields.io/badge/Stripe_%2F_Payments-161B22?style=flat-square&logo=stripe&logoColor=38B2AC" alt="Stripe Payments" />
+    <img src="https://img.shields.io/badge/ESP32_%2F_IoT-161B22?style=flat-square&logo=espressif&logoColor=38B2AC" alt="ESP32 IoT" />
+    <img src="https://img.shields.io/badge/Intel_Hardware-161B22?style=flat-square&logo=intel&logoColor=38B2AC" alt="Intel Hardware" />
+    <img src="https://img.shields.io/badge/AMD_Hardware-161B22?style=flat-square&logo=amd&logoColor=38B2AC" alt="AMD Hardware" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Wireshark-161B22?style=flat-square&logo=wireshark&logoColor=38B2AC" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Burp_Suite-161B22?style=flat-square&logo=burpsuite&logoColor=38B2AC" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Metasploit_%2F_Pentest-161B22?style=flat-square&logo=metasploit&logoColor=38B2AC" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/Kali_Cybersecurity-161B22?style=flat-square&logo=kalilinux&logoColor=38B2AC" alt="Kali Cybersecurity" />
+    <img src="https://img.shields.io/badge/Cisco_Networking-161B22?style=flat-square&logo=cisco&logoColor=38B2AC" alt="Cisco Networking" />
+    <img src="https://img.shields.io/badge/MikroTik-161B22?style=flat-square&logo=mikrotik&logoColor=38B2AC" alt="MikroTik" />
+    <img src="https://img.shields.io/badge/Ubiquiti_WiFi-161B22?style=flat-square&logo=ubiquiti&logoColor=38B2AC" alt="Ubiquiti WiFi" />
     <img src="https://img.shields.io/badge/VirtualBox-161B22?style=flat-square&logo=virtualbox&logoColor=38B2AC" alt="VirtualBox" />
     <img src="https://img.shields.io/badge/VMware-161B22?style=flat-square&logo=vmware&logoColor=38B2AC" alt="VMware" />
-    <img src="https://img.shields.io/badge/Networking_%26_Routers-161B22?style=flat-square&logo=cisco&logoColor=38B2AC" alt="Networking and Routers" />
-    <img src="https://img.shields.io/badge/Hardware_%26_IT_Infra-161B22?style=flat-square&logo=intel&logoColor=38B2AC" alt="Hardware and IT Infrastructure" />
-    <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=kalilinux&logoColor=38B2AC" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/OpenVPN-161B22?style=flat-square&logo=openvpn&logoColor=38B2AC" alt="OpenVPN" />
+    <img src="https://img.shields.io/badge/WireGuard-161B22?style=flat-square&logo=wireguard&logoColor=38B2AC" alt="WireGuard" />
+    <img src="https://img.shields.io/badge/AnyDesk-161B22?style=flat-square&logo=anydesk&logoColor=38B2AC" alt="AnyDesk" />
+    <img src="https://img.shields.io/badge/TeamViewer-161B22?style=flat-square&logo=teamviewer&logoColor=38B2AC" alt="TeamViewer" />
   </p>
 </div>
 
