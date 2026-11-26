@@ -200,9 +200,9 @@ I am a **multidisciplinary software engineer and technology specialist** who ope
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fizsmx/fizsmx/output/github-contribution-grid-snake-dark.svg" width="98%" />
   </picture>
   <br /><br />
-  <img height="165" src="https://streak-stats.demolab.com?user=fizsmx&background=0D1117&border=30363D&stroke=30363D&ring=38B2AC&fire=38B2AC&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38B2AC&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizsmx&layout=compact&langs_count=6&bg_color=0d1117&title_color=38b2ac&text_color=e6edf3&border_color=30363d&border_radius=10" alt="Top Languages" />
+  <img src="./assets/proficiency.svg" width="98%" alt="Polyglot Language Proficiency" />
+  <br /><br />
+  <img height="175" src="https://streak-stats.demolab.com?user=fizsmx&background=0D1117&border=30363D&stroke=30363D&ring=38B2AC&fire=38B2AC&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38B2AC&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizsmx&bg_color=0d1117&color=e6edf3&line=38b2ac&point=ffffff&area=true&area_color=38b2ac&hide_border=true" width="98%" alt="Contribution Activity Graph" />
 </div>
