@@ -1,258 +1,140 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="584" viewBox="0 0 880 584" role="img" aria-label="Complete Polyglot Language, AI, Cloud, Security and Hardware Proficiency">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1052" viewBox="0 0 960 1052" role="img" aria-label="Complete 90-Track Polyglot Language and Technology Proficiency">
   <defs>
-    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g90" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f766e"/>
-      <stop offset="60%" stop-color="#38b2ac"/>
+      <stop offset="65%" stop-color="#38b2ac"/>
+      <stop offset="100%" stop-color="#5eead4"/>
+    </linearGradient>
+    <linearGradient id="g80" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="65%" stop-color="#0ea5e9"/>
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
-    <linearGradient id="barGradAlt" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0369a1"/>
-      <stop offset="60%" stop-color="#0ea5e9"/>
-      <stop offset="100%" stop-color="#38b2ac"/>
+    <linearGradient id="g70" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4338ca"/>
+      <stop offset="65%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
   </defs>
-
   <style>
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 18px;
-      font-weight: 700;
-      fill: #38b2ac;
-    }
-    .pill-text {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 10.5px;
-      font-weight: 600;
-      letter-spacing: 0.7px;
-      fill: #81e6d9;
-    }
-    .col-head-l {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 10.5px;
-      font-weight: 700;
-      letter-spacing: 1px;
-      fill: #81e6d9;
-    }
-    .col-head-r {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 10.5px;
-      font-weight: 700;
-      letter-spacing: 1px;
-      fill: #7dd3fc;
-    }
-    .lang {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 11.8px;
-      font-weight: 600;
-      fill: #e6edf3;
-    }
-    .pct {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 11.5px;
-      font-weight: 700;
-      fill: #38b2ac;
-    }
-    .foot {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 10.5px;
-      fill: #8b949e;
-    }
-    .track { fill: #161b22; stroke: #21262d; stroke-width: 1; }
-    .fill-bar {
-      transform-box: fill-box;
-      transform-origin: left center;
-      animation: growBar 1.1s ease-out forwards;
-    }
-    @keyframes growBar {
-      from { transform: scaleX(0); }
-      to { transform: scaleX(1); }
-    }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #38b2ac; }
+    .pill { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; font-weight: 600; letter-spacing: 0.7px; fill: #81e6d9; }
+    .chead { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; font-weight: 700; letter-spacing: 0.9px; }
+    .lang { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #e6edf3; }
+    .pct { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10.5px; font-weight: 700; }
+    .legend { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10px; fill: #8b949e; }
+    .track { fill: #161b22; stroke: #21262d; stroke-width: 0.9; }
+    .bar { transform-box: fill-box; transform-origin: left center; animation: grow 1.1s ease-out forwards; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
   </style>
 
-  <!-- Card Shell -->
-  <rect x="0.5" y="0.5" width="879" height="583" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+  <rect x="0.5" y="0.5" width="959" height="1051" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
 
   <!-- Header -->
-  <text x="26" y="34" class="title">Full-Spectrum Technology &amp; Language Proficiency</text>
-  <rect x="594" y="16" width="260" height="24" rx="12" fill="#0f2933" stroke="#38b2ac" stroke-opacity="0.45" stroke-width="1"/>
-  <text x="724" y="32" text-anchor="middle" class="pill-text">ALL LANGUAGES · 300+ TECHNOLOGIES</text>
-  <line x1="26" y1="49" x2="854" y2="49" stroke="#21262d" stroke-width="1"/>
+  <text x="22" y="33" class="title">Complete Polyglot Language &amp; Technology Matrix</text>
+  <rect x="658" y="15" width="280" height="24" rx="12" fill="#0f2933" stroke="#38b2ac" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="798" y="31" text-anchor="middle" class="pill">90 TRACKS · ALL LANGUAGES · 72%–98%</text>
+  <line x1="22" y1="48" x2="938" y2="48" stroke="#21262d" stroke-width="1"/>
 
-  <!-- Column Subheaders -->
-  <text x="26" y="70" class="col-head-l">// PROGRAMMING LANGUAGES &amp; PARADIGMS</text>
-  <text x="459" y="70" class="col-head-r">// FRAMEWORKS, AI, CLOUD, SECURITY &amp; HARDWARE</text>
+  <!-- Column Headers -->
+  <text x="22" y="68" class="chead" fill="#5eead4">// CORE, SYSTEMS &amp; WEB LANGUAGES</text>
+  <text x="335" y="68" class="chead" fill="#38bdf8">// FUNCTIONAL, SCIENTIFIC, HDL &amp; CLASSIC</text>
+  <text x="648" y="68" class="chead" fill="#a5b4fc">// FRAMEWORKS, AI, CLOUD, SEC &amp; HARDWARE</text>
+  <circle cx="26" cy="92.0" r="3.3" fill="#3178c6"/><text x="35" y="95.5" class="lang">TypeScript</text><text x="312" y="95.5" text-anchor="end" class="pct" fill="#38b2ac">98%</text><rect x="22" y="101.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="101.5" width="284.2" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="122.5" r="3.3" fill="#f7df1e"/><text x="35" y="126.0" class="lang">JavaScript (ESNext)</text><text x="312" y="126.0" text-anchor="end" class="pct" fill="#38b2ac">98%</text><rect x="22" y="132.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="132.0" width="284.2" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="153.0" r="3.3" fill="#3776ab"/><text x="35" y="156.5" class="lang">Python</text><text x="312" y="156.5" text-anchor="end" class="pct" fill="#38b2ac">97%</text><rect x="22" y="162.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="162.5" width="281.3" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="183.5" r="3.3" fill="#e34f26"/><text x="35" y="187.0" class="lang">HTML5 / CSS3</text><text x="312" y="187.0" text-anchor="end" class="pct" fill="#38b2ac">98%</text><rect x="22" y="193.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="193.0" width="284.2" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="214.0" r="3.3" fill="#336791"/><text x="35" y="217.5" class="lang">SQL / PLpgSQL</text><text x="312" y="217.5" text-anchor="end" class="pct" fill="#38b2ac">96%</text><rect x="22" y="223.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="223.5" width="278.4" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="244.5" r="3.3" fill="#777bb4"/><text x="35" y="248.0" class="lang">PHP</text><text x="312" y="248.0" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="22" y="254.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="254.0" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="275.0" r="3.3" fill="#4eaa25"/><text x="35" y="278.5" class="lang">Bash / Zsh / Shell</text><text x="312" y="278.5" text-anchor="end" class="pct" fill="#38b2ac">96%</text><rect x="22" y="284.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="284.5" width="278.4" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="305.5" r="3.3" fill="#5391fe"/><text x="35" y="309.0" class="lang">PowerShell</text><text x="312" y="309.0" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="22" y="315.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="315.0" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="336.0" r="3.3" fill="#00599c"/><text x="35" y="339.5" class="lang">C++</text><text x="312" y="339.5" text-anchor="end" class="pct" fill="#38b2ac">91%</text><rect x="22" y="345.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="345.5" width="263.9" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="366.5" r="3.3" fill="#a8b9cc"/><text x="35" y="370.0" class="lang">C</text><text x="312" y="370.0" text-anchor="end" class="pct" fill="#38b2ac">90%</text><rect x="22" y="376.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="376.0" width="261.0" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="397.0" r="3.3" fill="#239120"/><text x="35" y="400.5" class="lang">C#</text><text x="312" y="400.5" text-anchor="end" class="pct" fill="#38b2ac">91%</text><rect x="22" y="406.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="406.5" width="263.9" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="427.5" r="3.3" fill="#ed8b00"/><text x="35" y="431.0" class="lang">Java</text><text x="312" y="431.0" text-anchor="end" class="pct" fill="#38b2ac">92%</text><rect x="22" y="437.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="437.0" width="266.8" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="458.0" r="3.3" fill="#00add8"/><text x="35" y="461.5" class="lang">Go (Golang)</text><text x="312" y="461.5" text-anchor="end" class="pct" fill="#38bdf8">89%</text><rect x="22" y="467.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="467.5" width="258.1" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="488.5" r="3.3" fill="#dea584"/><text x="35" y="492.0" class="lang">Rust</text><text x="312" y="492.0" text-anchor="end" class="pct" fill="#38bdf8">88%</text><rect x="22" y="498.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="498.0" width="255.2" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="519.0" r="3.3" fill="#7f52ff"/><text x="35" y="522.5" class="lang">Kotlin</text><text x="312" y="522.5" text-anchor="end" class="pct" fill="#38bdf8">87%</text><rect x="22" y="528.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="528.5" width="252.3" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="549.5" r="3.3" fill="#fa7343"/><text x="35" y="553.0" class="lang">Swift</text><text x="312" y="553.0" text-anchor="end" class="pct" fill="#38bdf8">85%</text><rect x="22" y="559.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="559.0" width="246.5" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="580.0" r="3.3" fill="#0175c2"/><text x="35" y="583.5" class="lang">Dart</text><text x="312" y="583.5" text-anchor="end" class="pct" fill="#38bdf8">86%</text><rect x="22" y="589.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="589.5" width="249.4" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="610.5" r="3.3" fill="#cc342d"/><text x="35" y="614.0" class="lang">Ruby</text><text x="312" y="614.0" text-anchor="end" class="pct" fill="#38bdf8">84%</text><rect x="22" y="620.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="620.0" width="243.6" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="641.0" r="3.3" fill="#438eff"/><text x="35" y="644.5" class="lang">Objective-C</text><text x="312" y="644.5" text-anchor="end" class="pct" fill="#818cf8">79%</text><rect x="22" y="650.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="650.5" width="229.1" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="671.5" r="3.3" fill="#f7a41d"/><text x="35" y="675.0" class="lang">Zig</text><text x="312" y="675.0" text-anchor="end" class="pct" fill="#38bdf8">82%</text><rect x="22" y="681.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="681.0" width="237.8" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="702.0" r="3.3" fill="#ffe953"/><text x="35" y="705.5" class="lang">Nim</text><text x="312" y="705.5" text-anchor="end" class="pct" fill="#818cf8">78%</text><rect x="22" y="711.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="711.5" width="226.2" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="732.5" r="3.3" fill="#c9d1d9"/><text x="35" y="736.0" class="lang">Crystal</text><text x="312" y="736.0" text-anchor="end" class="pct" fill="#818cf8">77%</text><rect x="22" y="742.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="742.0" width="223.3" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="763.0" r="3.3" fill="#5d87bf"/><text x="35" y="766.5" class="lang">V (Vlang)</text><text x="312" y="766.5" text-anchor="end" class="pct" fill="#818cf8">76%</text><rect x="22" y="772.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="772.5" width="220.4" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="793.5" r="3.3" fill="#a56de2"/><text x="35" y="797.0" class="lang">Vala</text><text x="312" y="797.0" text-anchor="end" class="pct" fill="#818cf8">75%</text><rect x="22" y="803.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="803.0" width="217.5" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="824.0" r="3.3" fill="#b03931"/><text x="35" y="827.5" class="lang">D (Dlang)</text><text x="312" y="827.5" text-anchor="end" class="pct" fill="#818cf8">74%</text><rect x="22" y="833.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="833.5" width="214.6" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="26" cy="854.5" r="3.3" fill="#5c2d91"/><text x="35" y="858.0" class="lang">Visual Basic / VBA</text><text x="312" y="858.0" text-anchor="end" class="pct" fill="#38bdf8">81%</text><rect x="22" y="864.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="864.0" width="234.9" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="885.0" r="3.3" fill="#4298b8"/><text x="35" y="888.5" class="lang">Groovy</text><text x="312" y="888.5" text-anchor="end" class="pct" fill="#38bdf8">80%</text><rect x="22" y="894.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="894.5" width="232.0" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="26" cy="915.5" r="3.3" fill="#cc6699"/><text x="35" y="919.0" class="lang">Sass / Less / Stylus</text><text x="312" y="919.0" text-anchor="end" class="pct" fill="#38b2ac">93%</text><rect x="22" y="925.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="925.0" width="269.7" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="946.0" r="3.3" fill="#38b2ac"/><text x="35" y="949.5" class="lang">Markdown / LaTeX</text><text x="312" y="949.5" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="22" y="955.5" width="290" height="6" rx="3" class="track"/><rect x="22" y="955.5" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="26" cy="976.5" r="3.3" fill="#e10098"/><text x="35" y="980.0" class="lang">GraphQL / YAML / TOML</text><text x="312" y="980.0" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="22" y="986.0" width="290" height="6" rx="3" class="track"/><rect x="22" y="986.0" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="339" cy="92.0" r="3.3" fill="#dc322f"/><text x="348" y="95.5" class="lang">Scala</text><text x="625" y="95.5" text-anchor="end" class="pct" fill="#38bdf8">83%</text><rect x="335" y="101.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="101.5" width="240.7" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="122.5" r="3.3" fill="#6e4a7e"/><text x="348" y="126.0" class="lang">Elixir</text><text x="625" y="126.0" text-anchor="end" class="pct" fill="#38bdf8">84%</text><rect x="335" y="132.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="132.0" width="243.6" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="153.0" r="3.3" fill="#a90533"/><text x="348" y="156.5" class="lang">Erlang</text><text x="625" y="156.5" text-anchor="end" class="pct" fill="#818cf8">78%</text><rect x="335" y="162.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="162.5" width="226.2" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="183.5" r="3.3" fill="#5881d8"/><text x="348" y="187.0" class="lang">Clojure</text><text x="625" y="187.0" text-anchor="end" class="pct" fill="#818cf8">79%</text><rect x="335" y="193.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="193.0" width="229.1" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="214.0" r="3.3" fill="#5e5086"/><text x="348" y="217.5" class="lang">Haskell</text><text x="625" y="217.5" text-anchor="end" class="pct" fill="#38bdf8">80%</text><rect x="335" y="223.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="223.5" width="232.0" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="244.5" r="3.3" fill="#ec6813"/><text x="348" y="248.0" class="lang">OCaml</text><text x="625" y="248.0" text-anchor="end" class="pct" fill="#818cf8">77%</text><rect x="335" y="254.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="254.0" width="223.3" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="275.0" r="3.3" fill="#378bba"/><text x="348" y="278.5" class="lang">F#</text><text x="625" y="278.5" text-anchor="end" class="pct" fill="#818cf8">79%</text><rect x="335" y="284.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="284.5" width="229.1" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="305.5" r="3.3" fill="#3b82f6"/><text x="348" y="309.0" class="lang">Lua</text><text x="625" y="309.0" text-anchor="end" class="pct" fill="#38bdf8">86%</text><rect x="335" y="315.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="315.0" width="249.4" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="336.0" r="3.3" fill="#39457e"/><text x="348" y="339.5" class="lang">Perl / Raku</text><text x="625" y="339.5" text-anchor="end" class="pct" fill="#38bdf8">81%</text><rect x="335" y="345.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="345.5" width="234.9" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="366.5" r="3.3" fill="#276dc3"/><text x="348" y="370.0" class="lang">R</text><text x="625" y="370.0" text-anchor="end" class="pct" fill="#38bdf8">84%</text><rect x="335" y="376.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="376.0" width="243.6" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="397.0" r="3.3" fill="#9558b2"/><text x="348" y="400.5" class="lang">Julia</text><text x="625" y="400.5" text-anchor="end" class="pct" fill="#38bdf8">82%</text><rect x="335" y="406.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="406.5" width="237.8" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="427.5" r="3.3" fill="#e16737"/><text x="348" y="431.0" class="lang">MATLAB / Octave</text><text x="625" y="431.0" text-anchor="end" class="pct" fill="#38bdf8">85%</text><rect x="335" y="437.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="437.0" width="246.5" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="458.0" r="3.3" fill="#94a3b8"/><text x="348" y="461.5" class="lang">Solidity</text><text x="625" y="461.5" text-anchor="end" class="pct" fill="#38bdf8">86%</text><rect x="335" y="467.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="467.5" width="249.4" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="488.5" r="3.3" fill="#654ff0"/><text x="348" y="492.0" class="lang">WebAssembly (Wasm)</text><text x="625" y="492.0" text-anchor="end" class="pct" fill="#38bdf8">83%</text><rect x="335" y="498.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="498.0" width="240.7" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="519.0" r="3.3" fill="#38bdf8"/><text x="348" y="522.5" class="lang">Move / Cairo</text><text x="625" y="522.5" text-anchor="end" class="pct" fill="#818cf8">76%</text><rect x="335" y="528.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="528.5" width="220.4" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="549.5" r="3.3" fill="#ff4f00"/><text x="348" y="553.0" class="lang">Mojo</text><text x="625" y="553.0" text-anchor="end" class="pct" fill="#818cf8">79%</text><rect x="335" y="559.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="559.0" width="229.1" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="580.0" r="3.3" fill="#64748b"/><text x="348" y="583.5" class="lang">Carbon</text><text x="625" y="583.5" text-anchor="end" class="pct" fill="#818cf8">73%</text><rect x="335" y="589.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="589.5" width="211.7" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="610.5" r="3.3" fill="#f59e0b"/><text x="348" y="614.0" class="lang">Assembly (x86 / ARM)</text><text x="625" y="614.0" text-anchor="end" class="pct" fill="#38bdf8">81%</text><rect x="335" y="620.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="620.0" width="234.9" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="641.0" r="3.3" fill="#14b8a6"/><text x="348" y="644.5" class="lang">Verilog / SystemVerilog</text><text x="625" y="644.5" text-anchor="end" class="pct" fill="#38bdf8">80%</text><rect x="335" y="650.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="650.5" width="232.0" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="671.5" r="3.3" fill="#06b6d4"/><text x="348" y="675.0" class="lang">VHDL</text><text x="625" y="675.0" text-anchor="end" class="pct" fill="#818cf8">78%</text><rect x="335" y="681.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="681.0" width="226.2" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="702.0" r="3.3" fill="#76b900"/><text x="348" y="705.5" class="lang">CUDA C++ / GLSL / HLSL</text><text x="625" y="705.5" text-anchor="end" class="pct" fill="#38bdf8">82%</text><rect x="335" y="711.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="711.5" width="237.8" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="339" cy="732.5" r="3.3" fill="#734f96"/><text x="348" y="736.0" class="lang">Fortran</text><text x="625" y="736.0" text-anchor="end" class="pct" fill="#818cf8">77%</text><rect x="335" y="742.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="742.0" width="223.3" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="763.0" r="3.3" fill="#0ea5e9"/><text x="348" y="766.5" class="lang">COBOL</text><text x="625" y="766.5" text-anchor="end" class="pct" fill="#818cf8">75%</text><rect x="335" y="772.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="772.5" width="217.5" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="793.5" r="3.3" fill="#ee1f35"/><text x="348" y="797.0" class="lang">Pascal / Delphi</text><text x="625" y="797.0" text-anchor="end" class="pct" fill="#818cf8">79%</text><rect x="335" y="803.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="803.0" width="229.1" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="824.0" r="3.3" fill="#02f88c"/><text x="348" y="827.5" class="lang">Ada</text><text x="625" y="827.5" text-anchor="end" class="pct" fill="#818cf8">74%</text><rect x="335" y="833.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="833.5" width="214.6" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="854.5" r="3.3" fill="#3fb68b"/><text x="348" y="858.0" class="lang">Common Lisp / Scheme</text><text x="625" y="858.0" text-anchor="end" class="pct" fill="#818cf8">76%</text><rect x="335" y="864.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="864.0" width="220.4" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="885.0" r="3.3" fill="#9f1d20"/><text x="348" y="888.5" class="lang">Racket / Prolog</text><text x="625" y="888.5" text-anchor="end" class="pct" fill="#818cf8">75%</text><rect x="335" y="894.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="894.5" width="217.5" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="915.5" r="3.3" fill="#ffaff3"/><text x="348" y="919.0" class="lang">Elm / PureScript / Gleam</text><text x="625" y="919.0" text-anchor="end" class="pct" fill="#818cf8">77%</text><rect x="335" y="925.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="925.0" width="223.3" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="946.0" r="3.3" fill="#e6484f"/><text x="348" y="949.5" class="lang">ReScript / Haxe / Hack</text><text x="625" y="949.5" text-anchor="end" class="pct" fill="#818cf8">76%</text><rect x="335" y="955.5" width="290" height="6" rx="3" class="track"/><rect x="335" y="955.5" width="220.4" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="339" cy="976.5" r="3.3" fill="#94a3b8"/><text x="348" y="980.0" class="lang">Smalltalk / Tcl / AWK / ABAP</text><text x="625" y="980.0" text-anchor="end" class="pct" fill="#818cf8">72%</text><rect x="335" y="986.0" width="290" height="6" rx="3" class="track"/><rect x="335" y="986.0" width="208.8" height="6" rx="3" fill="url(#g70)" class="bar"/>
+  <circle cx="652" cy="92.0" r="3.3" fill="#61dafb"/><text x="661" y="95.5" class="lang">Next.js / React</text><text x="938" y="95.5" text-anchor="end" class="pct" fill="#38b2ac">98%</text><rect x="648" y="101.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="101.5" width="284.2" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="122.5" r="3.3" fill="#42b883"/><text x="661" y="126.0" class="lang">Vue / Nuxt / Angular / Svelte</text><text x="938" y="126.0" text-anchor="end" class="pct" fill="#38b2ac">91%</text><rect x="648" y="132.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="132.0" width="263.9" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="153.0" r="3.3" fill="#38b2ac"/><text x="661" y="156.5" class="lang">Tailwind / Bootstrap / MUI</text><text x="938" y="156.5" text-anchor="end" class="pct" fill="#38b2ac">96%</text><rect x="648" y="162.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="162.5" width="278.4" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="183.5" r="3.3" fill="#43853d"/><text x="661" y="187.0" class="lang">Node.js / Deno / Bun</text><text x="938" y="187.0" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="648" y="193.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="193.0" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="214.0" r="3.3" fill="#009688"/><text x="661" y="217.5" class="lang">FastAPI / Django / Flask</text><text x="938" y="217.5" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="648" y="223.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="223.5" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="244.5" r="3.3" fill="#e0234e"/><text x="661" y="248.0" class="lang">Express / NestJS / Elysia</text><text x="938" y="248.0" text-anchor="end" class="pct" fill="#38b2ac">93%</text><rect x="648" y="254.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="254.0" width="269.7" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="275.0" r="3.3" fill="#ff2d20"/><text x="661" y="278.5" class="lang">Laravel / Symfony / Spring</text><text x="938" y="278.5" text-anchor="end" class="pct" fill="#38bdf8">89%</text><rect x="648" y="284.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="284.5" width="258.1" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="305.5" r="3.3" fill="#02569b"/><text x="661" y="309.0" class="lang">Flutter / React Native</text><text x="938" y="309.0" text-anchor="end" class="pct" fill="#38bdf8">87%</text><rect x="648" y="315.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="315.0" width="252.3" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="336.0" r="3.3" fill="#47848f"/><text x="661" y="339.5" class="lang">Electron / Tauri</text><text x="938" y="339.5" text-anchor="end" class="pct" fill="#38bdf8">86%</text><rect x="648" y="345.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="345.5" width="249.4" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="366.5" r="3.3" fill="#21759b"/><text x="661" y="370.0" class="lang">WordPress / Gutenberg</text><text x="938" y="370.0" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="648" y="376.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="376.0" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="397.0" r="3.3" fill="#714b67"/><text x="661" y="400.5" class="lang">Odoo ERP / SaaS</text><text x="938" y="400.5" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="648" y="406.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="406.5" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="427.5" r="3.3" fill="#38b2ac"/><text x="661" y="431.0" class="lang">Local LLMs (llama.cpp / Ollama)</text><text x="938" y="431.0" text-anchor="end" class="pct" fill="#38b2ac">96%</text><rect x="648" y="437.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="437.0" width="278.4" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="458.0" r="3.3" fill="#a855f7"/><text x="661" y="461.5" class="lang">Cloud AI (Gemini / Claude / GPT)</text><text x="938" y="461.5" text-anchor="end" class="pct" fill="#38b2ac">97%</text><rect x="648" y="467.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="467.5" width="281.3" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="488.5" r="3.3" fill="#22d3ee"/><text x="661" y="492.0" class="lang">AI Agents / RAG / LangChain</text><text x="938" y="492.0" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="648" y="498.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="498.0" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="519.0" r="3.3" fill="#ee4c2c"/><text x="661" y="522.5" class="lang">PyTorch / TensorFlow / OpenCV</text><text x="938" y="522.5" text-anchor="end" class="pct" fill="#38bdf8">88%</text><rect x="648" y="528.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="528.5" width="255.2" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="549.5" r="3.3" fill="#336791"/><text x="661" y="553.0" class="lang">PostgreSQL / MySQL / MariaDB</text><text x="938" y="553.0" text-anchor="end" class="pct" fill="#38b2ac">96%</text><rect x="648" y="559.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="559.0" width="278.4" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="580.0" r="3.3" fill="#3ecf8e"/><text x="661" y="583.5" class="lang">Supabase / Firebase / Prisma</text><text x="938" y="583.5" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="648" y="589.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="589.5" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="610.5" r="3.3" fill="#4ea94b"/><text x="661" y="614.0" class="lang">MongoDB / Redis / Elastic</text><text x="938" y="614.0" text-anchor="end" class="pct" fill="#38b2ac">90%</text><rect x="648" y="620.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="620.0" width="261.0" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="641.0" r="3.3" fill="#2496ed"/><text x="661" y="644.5" class="lang">Docker / Compose / K8s</text><text x="938" y="644.5" text-anchor="end" class="pct" fill="#38b2ac">95%</text><rect x="648" y="650.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="650.5" width="275.5" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="671.5" r="3.3" fill="#24a1c1"/><text x="661" y="675.0" class="lang">Traefik / Nginx / Cloudflare</text><text x="938" y="675.0" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="648" y="681.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="681.0" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="702.0" r="3.3" fill="#ff9900"/><text x="661" y="705.5" class="lang">AWS / GCP / Azure / Vercel</text><text x="938" y="705.5" text-anchor="end" class="pct" fill="#38b2ac">91%</text><rect x="648" y="711.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="711.5" width="263.9" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="732.5" r="3.3" fill="#7b42bc"/><text x="661" y="736.0" class="lang">Terraform / Ansible / CI-CD</text><text x="938" y="736.0" text-anchor="end" class="pct" fill="#38bdf8">88%</text><rect x="648" y="742.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="742.0" width="255.2" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="763.0" r="3.3" fill="#fcc624"/><text x="661" y="766.5" class="lang">Linux (Arch / Debian / Kali)</text><text x="938" y="766.5" text-anchor="end" class="pct" fill="#38b2ac">97%</text><rect x="648" y="772.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="772.5" width="281.3" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="793.5" r="3.3" fill="#0ea5e9"/><text x="661" y="797.0" class="lang">Networking / MikroTik / Cisco</text><text x="938" y="797.0" text-anchor="end" class="pct" fill="#38b2ac">93%</text><rect x="648" y="803.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="803.0" width="269.7" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="824.0" r="3.3" fill="#ef4444"/><text x="661" y="827.5" class="lang">Wireshark / Burp / Metasploit</text><text x="938" y="827.5" text-anchor="end" class="pct" fill="#38bdf8">89%</text><rect x="648" y="833.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="833.5" width="258.1" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="854.5" r="3.3" fill="#e57000"/><text x="661" y="858.0" class="lang">Proxmox / VMware / VirtualBox</text><text x="938" y="858.0" text-anchor="end" class="pct" fill="#38b2ac">92%</text><rect x="648" y="864.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="864.0" width="266.8" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="885.0" r="3.3" fill="#88171a"/><text x="661" y="888.5" class="lang">VPN (WireGuard / OpenVPN)</text><text x="938" y="888.5" text-anchor="end" class="pct" fill="#38b2ac">91%</text><rect x="648" y="894.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="894.5" width="263.9" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="915.5" r="3.3" fill="#14b8a6"/><text x="661" y="919.0" class="lang">Hardware / ESP32 / Arduino / RPi</text><text x="938" y="919.0" text-anchor="end" class="pct" fill="#38b2ac">94%</text><rect x="648" y="925.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="925.0" width="272.6" height="6" rx="3" fill="url(#g90)" class="bar"/>
+  <circle cx="652" cy="946.0" r="3.3" fill="#c084fc"/><text x="661" y="949.5" class="lang">Unity / Unreal / Godot / Three.js</text><text x="938" y="949.5" text-anchor="end" class="pct" fill="#38bdf8">83%</text><rect x="648" y="955.5" width="290" height="6" rx="3" class="track"/><rect x="648" y="955.5" width="240.7" height="6" rx="3" fill="url(#g80)" class="bar"/>
+  <circle cx="652" cy="976.5" r="3.3" fill="#f24e1e"/><text x="661" y="980.0" class="lang">Figma / Blender / AutoCAD</text><text x="938" y="980.0" text-anchor="end" class="pct" fill="#38bdf8">85%</text><rect x="648" y="986.0" width="290" height="6" rx="3" class="track"/><rect x="648" y="986.0" width="246.5" height="6" rx="3" fill="url(#g80)" class="bar"/>
 
-  <!-- ==================== LEFT COLUMN (12 rows, step 39px) ==================== -->
-  <!-- L1 -->
-  <circle cx="32" cy="92" r="4" fill="#3178c6"/>
-  <text x="43" y="96" class="lang">TypeScript / JavaScript (ESNext)</text>
-  <text x="421" y="96" text-anchor="end" class="pct">99%</text>
-  <rect x="26" y="103" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="103" width="391" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L2 -->
-  <circle cx="32" cy="131" r="4" fill="#3776ab"/>
-  <text x="43" y="135" class="lang">Python (AI · FastAPI · Odoo · Automation)</text>
-  <text x="421" y="135" text-anchor="end" class="pct">98%</text>
-  <rect x="26" y="142" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="142" width="387" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L3 -->
-  <circle cx="32" cy="170" r="4" fill="#e34f26"/>
-  <text x="43" y="174" class="lang">HTML5 / CSS3 / Sass / Less / Tailwind / SVG</text>
-  <text x="421" y="174" text-anchor="end" class="pct">98%</text>
-  <rect x="26" y="181" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="181" width="387" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L4 -->
-  <circle cx="32" cy="209" r="4" fill="#336791"/>
-  <text x="43" y="213" class="lang">SQL / PostgreSQL / PLpgSQL / MySQL / T-SQL</text>
-  <text x="421" y="213" text-anchor="end" class="pct">97%</text>
-  <rect x="26" y="220" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="220" width="383" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L5 -->
-  <circle cx="32" cy="248" r="4" fill="#777bb4"/>
-  <text x="43" y="252" class="lang">PHP / WordPress / Laravel / Symfony / Hack</text>
-  <text x="421" y="252" text-anchor="end" class="pct">96%</text>
-  <rect x="26" y="259" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="259" width="379" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L6 -->
-  <circle cx="32" cy="287" r="4" fill="#4eaa25"/>
-  <text x="43" y="291" class="lang">Bash / PowerShell / Zsh / Linux Shell / Nix</text>
-  <text x="421" y="291" text-anchor="end" class="pct">96%</text>
-  <rect x="26" y="298" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="298" width="379" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L7 -->
-  <circle cx="32" cy="326" r="4" fill="#00599c"/>
-  <text x="43" y="330" class="lang">C / C++ / C# / .NET / Java / Groovy</text>
-  <text x="421" y="330" text-anchor="end" class="pct">94%</text>
-  <rect x="26" y="337" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="337" width="371" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L8 -->
-  <circle cx="32" cy="365" r="4" fill="#fa7343"/>
-  <text x="43" y="369" class="lang">Kotlin / Swift / Dart / Objective-C / Vala</text>
-  <text x="421" y="369" text-anchor="end" class="pct">92%</text>
-  <rect x="26" y="376" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="376" width="363" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L9 -->
-  <circle cx="32" cy="404" r="4" fill="#00add8"/>
-  <text x="43" y="408" class="lang">Go / Rust / Zig / Nim / Crystal / V / Mojo</text>
-  <text x="421" y="408" text-anchor="end" class="pct">92%</text>
-  <rect x="26" y="415" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="415" width="363" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L10 -->
-  <circle cx="32" cy="443" r="4" fill="#cc342d"/>
-  <text x="43" y="447" class="lang">Ruby / Lua / Perl / R / Julia / MATLAB / Octave</text>
-  <text x="421" y="447" text-anchor="end" class="pct">91%</text>
-  <rect x="26" y="454" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="454" width="359" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L11 -->
-  <circle cx="32" cy="482" r="4" fill="#8e44ad"/>
-  <text x="43" y="486" class="lang">Elixir / Erlang / Scala / Haskell / Clojure / OCaml / F#</text>
-  <text x="421" y="486" text-anchor="end" class="pct">90%</text>
-  <rect x="26" y="493" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="493" width="355" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- L12 -->
-  <circle cx="32" cy="521" r="4" fill="#f59e0b"/>
-  <text x="43" y="525" class="lang">Assembly / COBOL / Fortran / Pascal / Ada / Lisp / Prolog</text>
-  <text x="421" y="525" text-anchor="end" class="pct">89%</text>
-  <rect x="26" y="532" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="26" y="532" width="351" height="7" rx="3.5" fill="url(#barGrad)" class="fill-bar"/>
-
-  <!-- ==================== RIGHT COLUMN (12 rows, step 39px) ==================== -->
-  <!-- R1 -->
-  <circle cx="465" cy="92" r="4" fill="#61dafb"/>
-  <text x="476" y="96" class="lang">Next.js / React / Vue / Nuxt / Angular / Svelte / Astro</text>
-  <text x="854" y="96" text-anchor="end" class="pct">98%</text>
-  <rect x="459" y="103" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="103" width="387" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R2 -->
-  <circle cx="465" cy="131" r="4" fill="#43853d"/>
-  <text x="476" y="135" class="lang">Node.js / Deno / Bun / Express / NestJS / GraphQL</text>
-  <text x="854" y="135" text-anchor="end" class="pct">97%</text>
-  <rect x="459" y="142" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="142" width="383" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R3 -->
-  <circle cx="465" cy="170" r="4" fill="#a855f7"/>
-  <text x="476" y="174" class="lang">Local &amp; Cloud LLMs (llama.cpp · Gemini · Claude · Ollama)</text>
-  <text x="854" y="174" text-anchor="end" class="pct">97%</text>
-  <rect x="459" y="181" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="181" width="383" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R4 -->
-  <circle cx="465" cy="209" r="4" fill="#ee4c2c"/>
-  <text x="476" y="213" class="lang">AI Agents / RAG / LangChain / PyTorch / TensorFlow</text>
-  <text x="854" y="213" text-anchor="end" class="pct">95%</text>
-  <rect x="459" y="220" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="220" width="375" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R5 -->
-  <circle cx="465" cy="248" r="4" fill="#2496ed"/>
-  <text x="476" y="252" class="lang">Docker / Kubernetes / Traefik / Nginx / Terraform / CI-CD</text>
-  <text x="854" y="252" text-anchor="end" class="pct">96%</text>
-  <rect x="459" y="259" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="259" width="379" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R6 -->
-  <circle cx="465" cy="287" r="4" fill="#fcc624"/>
-  <text x="476" y="291" class="lang">Linux SysAdmin (Arch · Debian · Ubuntu · Kali · Fedora)</text>
-  <text x="854" y="291" text-anchor="end" class="pct">97%</text>
-  <rect x="459" y="298" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="298" width="383" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R7 -->
-  <circle cx="465" cy="326" r="4" fill="#714b67"/>
-  <text x="476" y="330" class="lang">Odoo ERP / SaaS / Payment Gateways / GIS &amp; Cadastre</text>
-  <text x="854" y="330" text-anchor="end" class="pct">96%</text>
-  <rect x="459" y="337" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="337" width="379" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R8 -->
-  <circle cx="465" cy="365" r="4" fill="#3ecf8e"/>
-  <text x="476" y="369" class="lang">Cloud &amp; BaaS (AWS · GCP · Azure · Supabase · Firebase)</text>
-  <text x="854" y="369" text-anchor="end" class="pct">94%</text>
-  <rect x="459" y="376" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="376" width="371" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R9 -->
-  <circle cx="465" cy="404" r="4" fill="#4ea94b"/>
-  <text x="476" y="408" class="lang">NoSQL, Cache &amp; ORMs (MongoDB · Redis · Prisma · Kafka)</text>
-  <text x="854" y="408" text-anchor="end" class="pct">94%</text>
-  <rect x="459" y="415" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="415" width="371" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R10 -->
-  <circle cx="465" cy="443" r="4" fill="#38bdf8"/>
-  <text x="476" y="447" class="lang">Networking / Routers / MikroTik / Cisco / VPN / Proxmox</text>
-  <text x="854" y="447" text-anchor="end" class="pct">95%</text>
-  <rect x="459" y="454" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="454" width="375" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R11 -->
-  <circle cx="465" cy="482" r="4" fill="#ef4444"/>
-  <text x="476" y="486" class="lang">Cybersecurity / Wireshark / Burp Suite / Metasploit / Nmap</text>
-  <text x="854" y="486" text-anchor="end" class="pct">93%</text>
-  <rect x="459" y="493" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="493" width="367" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- R12 -->
-  <circle cx="465" cy="521" r="4" fill="#14b8a6"/>
-  <text x="476" y="525" class="lang">Hardware / IoT / ESP32 / Arduino / RPi / Verilog / Solidity</text>
-  <text x="854" y="525" text-anchor="end" class="pct">95%</text>
-  <rect x="459" y="532" width="395" height="7" rx="3.5" class="track"/>
-  <rect x="459" y="532" width="375" height="7" rx="3.5" fill="url(#barGradAlt)" class="fill-bar"/>
-
-  <!-- Footer -->
-  <line x1="26" y1="554" x2="854" y2="554" stroke="#21262d" stroke-width="1"/>
-  <text x="440" y="572" text-anchor="middle" class="foot">End-to-end polyglot mastery across 24 engineering tracks · All major, systems, AI, Web3, HDL &amp; legacy ecosystems</text>
+  <!-- Footer Legend -->
+  <line x1="22" y1="1014" x2="938" y2="1014" stroke="#21262d" stroke-width="1"/>
+  <circle cx="30" cy="1033" r="4" fill="#38b2ac"/><text x="40" y="1037" class="legend">90%–98% Production Mastery</text>
+  <circle cx="242" cy="1033" r="4" fill="#38bdf8"/><text x="252" y="1037" class="legend">80%–89% Strong Engineering</text>
+  <circle cx="458" cy="1033" r="4" fill="#818cf8"/><text x="468" y="1037" class="legend">72%–79% Working / Specialized</text>
+  <text x="938" y="1037" text-anchor="end" class="legend">90 Tracks · Public, Private &amp; Systems</text>
 </svg>
