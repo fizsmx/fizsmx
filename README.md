@@ -1,167 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Fisbert!;Full+Stack+Software+Engineer;Linux+&+IT+Support+Specialist;Building+Scalable+Solutions&color=38B2AC" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f4c5c,100:38b2ac&height=190&section=header&text=Fisbert%20Chavez&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Enterprise%20Systems%20%7C%20Linux%20%26%20Hardware&descAlignY=60&descSize=16" width="100%" alt="Fisbert Chavez Header" />
+
+  <a href="https://github.com/fizsmx">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=Full-Stack+%26+AI+Software+Engineer;Enterprise+Systems%2C+Odoo+ERP+%26+Payment+Architect;Linux%2C+DevOps%2C+Networking+%26+Hardware+Specialist;Building+End-to-End+Tech+%E2%80%94+From+Hardware+to+Cloud" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/Email-fisbert.smx%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=38B2AC" alt="Email" /></a>
+    <a href="https://instagram.com/dean_smx"><img src="https://img.shields.io/badge/Instagram-%40dean__smx-161B22?style=flat-square&logo=instagram&logoColor=38B2AC" alt="Instagram" /></a>
+    <!-- Uncomment and update once your LinkedIn URL is ready:
+    <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=38B2AC" alt="LinkedIn" /></a>
+    -->
+    <img src="https://img.shields.io/badge/Location-Santa_Cruz%2C_Bolivia-161B22?style=flat-square&logo=googlemaps&logoColor=38B2AC" alt="Location" />
+    <img src="https://img.shields.io/github/followers/fizsmx?label=Followers&style=flat-square&color=38B2AC&labelColor=161B22&logo=github&logoColor=38B2AC" alt="GitHub Followers" />
+  </p>
 </div>
 
-<p align="center">
-  <em>Flipper</em>
-</p>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dean_smx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:fisbert.smx@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
-</p>
+### `>_ whoami`
 
+```yaml
+engineer:    Fisbert Chavez (@fizsmx)
+focus:       Full-Stack Engineering · Applied AI & Local LLMs · Enterprise Systems · Linux & Hardware
+approach:    End-to-End Execution — from bare-metal hardware & networks to containerized cloud production
+mindset:     Clean Architecture, pragmatic automation, security-first engineering, zero fluff
+```
 
+I am a **multidisciplinary software engineer and technology specialist** who operates across the full computing spectrum. Whether I am architecting **TypeScript/Next.js web platforms**, deploying **offline & cloud AI/LLM agents**, customizing **Odoo ERP and payment/ticketing systems**, configuring **Linux servers, Docker/Traefik stacks, and network telemetry**, or troubleshooting **hardware and IT infrastructure**, I focus on shipping reliable, scalable, real-world systems.
 
 ---
 
-### Tech Stack
+### Core Engineering Domains
 
-#### Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00C58E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
-
-#### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
-
-#### Mobile & Desktop
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-</p>
-
-#### Operating Systems, Terminals & IT Support
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/AnyDesk-EF4123?style=for-the-badge&logo=anydesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TeamViewer-0E4C95?style=for-the-badge&logo=teamviewer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT_Support-333333?style=for-the-badge&logo=iterm2&logoColor=white" />
-</p>
-
-#### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
-
-#### Cloud, DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F53?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-#### Artificial Intelligence, LLMs & Agents
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Midjourney-FFFFFF?style=for-the-badge&logo=midjourney&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI_Agents-5C2D91?style=for-the-badge&logo=hubot&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Full-Stack &amp; Web Architecture</h4>
+      Production web applications built with <strong>TypeScript, Next.js, React, Node.js, Python (FastAPI), PHP</strong>, and relational databases (<strong>PostgreSQL, Supabase, MariaDB, Prisma</strong>), structured with Clean Architecture and automated testing.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Applied AI, LLMs &amp; Automation</h4>
+      Local &amp; cloud AI engineering using <strong>llama.cpp (GGUF / Vulkan), Google Gemini, Claude, Ollama, and LangChain</strong> — from offline competitive-coding solvers and legal/document analysis pipelines to browser &amp; workflow automation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Enterprise, Fintech &amp; CMS</h4>
+      Custom <strong>Odoo ERP</strong> modules &amp; SaaS tooling, Bolivian payment gateway integrations, HMAC-signed QR ticketing systems, custom <strong>WordPress</strong> block themes/plugins, and territorial/cadastre management platforms.
+    </td>
+    <td width="50%" valign="top">
+      <h4>Linux, Networking &amp; Hardware</h4>
+      Daily <strong>Linux</strong> power user &amp; sysadmin (Arch, Debian, Ubuntu, Kali), <strong>Docker + Traefik</strong> production hosting, router traffic monitoring, network diagnostics, virtualization, cybersecurity tooling, and PC/server hardware infrastructure.
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### Architecture, Design & Extra Tools
-<p>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-</p>
+### Featured Public Projects
+
+| Project | Description | Core Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[CodeSolver Offline](https://github.com/fizsmx/ACM_program)** | Portable, 100% offline competitive programming AI assistant powered by local LLMs (`llama.cpp` + GGUF Vulkan/CPU) with automated test verification & self-repair loops. | `Python` `llama.cpp` `Local LLM` `JS` | [Repo](https://github.com/fizsmx/ACM_program) |
+| **[The Metiendole](https://github.com/fizsmx/the_metiendole)** | Full-stack streaming community hub with NextAuth v5 roles, XP/levels, daily streaks, polls, giveaways, and a live transparent **OBS roulette overlay**. | `Next.js 16` `TypeScript` `Prisma` `Docker` | [Repo](https://github.com/fizsmx/the_metiendole) · [Live Demo](https://the-metiendole.vercel.app) |
+| **[30 Días para Reconectar](https://github.com/fizsmx/Libro)** | Interactive 30-day couples reflection **PWA** with private partner workspaces, invite pairing, single-use access codes, and **Google Gemini AI** daily insights. | `Next.js` `Supabase` `Gemini AI` `PWA` | [Repo](https://github.com/fizsmx/Libro) · [Live Demo](https://libro-rust.vercel.app) |
+| **[FAST PASSANT](https://github.com/fizsmx/fast-passant)** | University internship management platform architected under **Clean Architecture** (`domain`, `use-cases`, `infrastructure`, `presentation`) with unit tests. | `React 18` `TypeScript` `Tailwind` `Vitest` | [Repo](https://github.com/fizsmx/fast-passant) |
+| **[MetResp](https://github.com/fizsmx/MetResp)** | Interactive Numerical Methods web suite & scientific calculator delivering full step-by-step analytical derivations for engineering & mathematics. | `HTML5` `JavaScript` `Scientific Computing` | [Repo](https://github.com/fizsmx/MetResp) · [Live Demo](https://fizsmx.github.io/MetResp/) |
+| **[Gestión Urbana](https://github.com/fizsmx/gestion-urbana)** | Civic-tech portal for citizen urban issue reporting and municipal status tracking, containerized with MariaDB healthchecks and Traefik HTTPS. | `PHP 8.3` `MariaDB` `Docker` `Traefik` | [Repo](https://github.com/fizsmx/gestion-urbana) · [Preview](https://fizsmx.github.io/gestion-urbana/) |
+
+> **Private & Production Engineering:** Beyond public repositories, I actively architect and maintain private commercial systems spanning **AI-powered Bolivian legal contract analysis**, **municipal cadastre & GIS platforms**, **Odoo ERP SaaS & AI agents**, **local payment gateways**, **QR event ticketing plugins**, and **real-time router/network traffic dashboards**.
 
 ---
 
-### System Access Granted...
+### Tech Stack & Toolbox
 
 <div align="center">
-  <img src="terminal.gif" width="100%" alt="Hacker Terminal Animation" />
+  <p><strong>Languages, Frameworks &amp; Core Engineering</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,bash,powershell,html,css,tailwind,react,nextjs,vite,nodejs,fastapi,wordpress&perline=8" alt="Core Languages and Frameworks" />
+
+  <p><strong>Databases, DevOps, Linux &amp; Infrastructure</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma,docker,linux,ubuntu,debian,arch,kali,nginx,git,github,vercel,figma&perline=8" alt="Databases, DevOps and Linux" />
+
+  <p><strong>AI Ecosystem, Enterprise, Networking &amp; Hardware</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=38B2AC" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/Claude_%2F_Anthropic-161B22?style=flat-square&logo=anthropic&logoColor=38B2AC" alt="Claude Anthropic" />
+    <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=38B2AC" alt="Ollama" />
+    <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=38B2AC" alt="LangChain" />
+    <img src="https://img.shields.io/badge/llama.cpp_%2F_GGUF-161B22?style=flat-square&logo=meta&logoColor=38B2AC" alt="llama.cpp" />
+    <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=38B2AC" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Odoo_ERP-161B22?style=flat-square&logo=odoo&logoColor=38B2AC" alt="Odoo ERP" />
+    <img src="https://img.shields.io/badge/Traefik-161B22?style=flat-square&logo=traefikproxy&logoColor=38B2AC" alt="Traefik" />
+    <img src="https://img.shields.io/badge/Wireshark-161B22?style=flat-square&logo=wireshark&logoColor=38B2AC" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/VirtualBox-161B22?style=flat-square&logo=virtualbox&logoColor=38B2AC" alt="VirtualBox" />
+    <img src="https://img.shields.io/badge/VMware-161B22?style=flat-square&logo=vmware&logoColor=38B2AC" alt="VMware" />
+    <img src="https://img.shields.io/badge/Networking_%26_Routers-161B22?style=flat-square&logo=cisco&logoColor=38B2AC" alt="Networking and Routers" />
+    <img src="https://img.shields.io/badge/Hardware_%26_IT_Infra-161B22?style=flat-square&logo=intel&logoColor=38B2AC" alt="Hardware and IT Infrastructure" />
+    <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=kalilinux&logoColor=38B2AC" alt="Cybersecurity" />
+  </p>
 </div>
+
+---
+
+### GitHub Telemetry & Activity
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=fizsmx&background=0D1117&border=30363D&stroke=30363D&ring=38B2AC&fire=38B2AC&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38B2AC&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizsmx&layout=compact&langs_count=6&bg_color=0d1117&title_color=38b2ac&text_color=e6edf3&border_color=30363d&border_radius=10" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizsmx&bg_color=0d1117&color=e6edf3&line=38b2ac&point=ffffff&area=true&area_color=38b2ac&hide_border=true" width="98%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+### `>_ System Access Granted...`
+
+<div align="center">
+  <img src="./terminal.gif" width="90%" alt="System Terminal Animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f4c5c,100:38b2ac&height=100&section=footer" width="100%" alt="Footer Wave" />
